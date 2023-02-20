@@ -5,4 +5,5 @@
 <p align="center">
 <a href="https://www.midjourney.com/">Midjourney AI creation</a>
 </p>
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/RickDeckcard/Hack_The_Word?color=1">
 Hack The Word (HTW) is a software to create intelligence wordlists to use in Pentesting brute force attacks
