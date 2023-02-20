@@ -7,5 +7,6 @@
 </p>
 <div>
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/RickDeckcard/Hack_The_Word">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rickdeckard23">
 </div>
 Hack The Word (HTW) is a software to create intelligence wordlists to use in Pentesting brute force attacks
