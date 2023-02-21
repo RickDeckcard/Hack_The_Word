@@ -47,6 +47,9 @@ python HTW.py
 <p>
 In the main menu you have options to start creating intelligence wordlists. You must understand before the passwords methods that a human could use to create a password. To understand how works the tool I recommended watch our videos.
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RickDeckcard/Hack_The_Word/main/INFOGRAFIAS/main_menu_HTW.png" width="950" title="HTW main menu" alt="HTW main menu screenshot">
+</p>
+<p align="center">
 
 Hack The Word (HTW) is a software to create intelligence wordlists to use in Pentesting brute force attacks
