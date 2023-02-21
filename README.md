@@ -54,5 +54,15 @@ In the main menu you have options to start creating intelligence wordlists. You 
 <p>
 The DATA.txt is the main file that use HTW to work. That file is in the HACK_THE_WORD folder. You can configurate it and add new lines. The correct format is the next:
 </p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="Your_description:the_information"><pre class="notranslate"><code>Your_description:the_information</code></pre></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="Your_description:The_information"><pre class="notranslate"><code>Your_description:the_information</code></pre></div>
+<p>
+NOTE: It´s important that you don´t use spaces between Your_description the colon and The_information. You must use spaces in The_information, for example if the information is a letter song but you can´t use spaces in Your_description.
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RickDeckcard/Hack_The_Word/main/INFOGRAFIAS/DATA_txt_screenshot.png" width="950" title="DATA_TXT content" alt="DATA_TXT content test screenshot">
+</p>
+<p align="center">
+
+
+
 Hack The Word (HTW) is a software to create intelligence wordlists to use in Pentesting brute force attacks
