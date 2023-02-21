@@ -9,7 +9,7 @@
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/RickDeckcard/Hack_The_Word">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rickdeckard23">
 </div>
-<h2>:hourglass:project functionalities</h2>
+<h2>:hourglass: Project functionalities</h2>
 <ul>
   <li>Intelligence Wordlist: create wordlists about different methods of creating passwords.</li>
   <li>OSINT: help in the cyber-investigation process.</li>
