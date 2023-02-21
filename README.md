@@ -51,5 +51,8 @@ In the main menu you have options to start creating intelligence wordlists. You 
   <img src="https://raw.githubusercontent.com/RickDeckcard/Hack_The_Word/main/INFOGRAFIAS/main_menu_HTW.png" width="950" title="HTW main menu" alt="HTW main menu screenshot">
 </p>
 <p align="center">
-
+<p>
+The DATA.txt is the main file that use HTW to work. That file is in the HACK_THE_WORD folder. You can configurate it and add new lines. The correct format is the next:
+</p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="Your_description:the_information"><pre class="notranslate"><code>Your_description:the_information</code></pre></div>
 Hack The Word (HTW) is a software to create intelligence wordlists to use in Pentesting brute force attacks
