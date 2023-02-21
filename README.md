@@ -34,6 +34,19 @@ that use mnemonic rules or logical methods to create passwords, although these a
 You must to download the repository to your harddisk using git or download the zip file.
 </p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="git clone https://github.com/RickDeckcard/Hack_The_Word"><pre class="notranslate"><code>git clone https://github.com/RickDeckcard/Hack_The_Word</code></pre></div>
+<p>
+Access to the main folder and install requirements.(NOTE: if don´t work wit pip or python then try with pip3 or python3).
+</p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="cd HACK_THE_WORD
+pip install -r requirements
+python HTW.py"><pre class="notranslate"><code>cd HACK_THE_WORD
+pip install -r requirements
+python HTW.py
+</code></pre></div>
+<h2>:key: Starting.</h2>
+<p>
+In the main menu you have options to start creating intelligence wordlists. You must understand before the passwords methods that a human could use to create a password. To understand how works the tool I recommended watch our videos.
+</p>
 
 
 Hack The Word (HTW) is a software to create intelligence wordlists to use in Pentesting brute force attacks
