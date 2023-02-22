@@ -62,7 +62,16 @@ NOTE: It´s important that you don´t use spaces between Your_description the co
   <img src="https://raw.githubusercontent.com/RickDeckcard/Hack_The_Word/main/INFOGRAFIAS/DATA_txt_screenshot.png" width="950" title="DATA_TXT content" alt="DATA_TXT content test screenshot">
 </p>
 <p align="center">
-
+<h2>:passport_control: Create_my_pass.py</h2>
+<p>
+Create_my_pass.py is a script that help you to create an strong password. You must choose the lowercases, uppercases, symbols and numbers that you want. Then the script say you if that password is strong or not. After that you can select if the random number (entropy) would be automatic (A) or your selection (S).
+To execute the script you must be in the folder HACK_THE_WORD and write:
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="python Create_my_pass.py"><pre class="notranslate"><code>python Create_my_pass.py</code></pre></div>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RickDeckcard/Hack_The_Word/main/INFOGRAFIAS/Create_my_password_screenshot.png" width="950" title="Create_my_pass script" alt="Create_my_pass.py screenshot">
+</p>
+<p align="center">
 
 
 Hack The Word (HTW) is a software to create intelligence wordlists to use in Pentesting brute force attacks
