@@ -7,8 +7,7 @@
 </p>
 <div>
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/RickDeckcard/Hack_The_Word">
-  <a href="https://twitter.com/rickdeckard23" rel="nofollow"></a>
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rickdeckard23">
+<a href="https://twitter.com/rickdeckard23" rel="nofollow"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rickdeckard23"></a>
 </div>
 <h2>:hourglass: Project functionalities</h2>
 <ul>
