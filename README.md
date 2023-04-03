@@ -6,6 +6,7 @@
 <a href="https://www.midjourney.com/">Midjourney AI creation</a>
 </p>
 <div>
+<img alt="Language version" src="https://img.shields.io/badge/Language-python3.9-blue">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/RickDeckcard/Hack_The_Word">
 <a href="https://twitter.com/rickdeckard23" rel="nofollow"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rickdeckard23"></a>
 </div>
