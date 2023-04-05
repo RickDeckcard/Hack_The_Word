@@ -80,10 +80,10 @@ Coming soon the videos in English lenguage.
 If you want to get improve Hack The Word then send any crypto to the address. Thanks to use HTW.
 Bitcoin: 3JPHkwxD5Xd3RgnTZRv1Yrpt3vFfEfyqyK
 <h2>:vhs: Follow me</h2>
-<p>In Twitter: <a href="https://twitter.com/rickdeckard23" rel="nofollow"> @rickdeckard23</p>
-<p>In Linkedin: <a href="https://es.linkedin.com/in/jorge-alejandro-esclapez-bonet-16629a1b7" rel="nofollow"></p>
-<p>In MyPublicInbox: <a href="https://mypublicinbox.com/Deckcard23" rel="nofollow"></p>
-<p>My website: deckcard23.com</p>
+<p>In Twitter: <a href="https://twitter.com/rickdeckard23" rel="nofollow"> @rickdeckard23</a></p>
+<p><a href="https://es.linkedin.com/in/jorge-alejandro-esclapez-bonet-16629a1b7" rel="nofollow">In LinkedIn</p>
+<p><a href="https://mypublicinbox.com/Deckcard23" rel="nofollow">In MyPublicInbox</p>
+<p><a href="https://deckcard23.com" rel="nofollow">My website: deckcard23.com</p>
 
 
 Hack The Word (HTW) is a software to create intelligence wordlists to use in Pentesting brute force attacks
