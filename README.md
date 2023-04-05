@@ -7,7 +7,7 @@
 </p>
 <div>
 <img alt="Language version" src="https://img.shields.io/badge/Language-python3.9-blue">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/RickDeckcard/Hack_The_Word">
+<img alt="GitHub repo size" src="https://img.shields.io/badge/size-60.6%20MB-brightgreen">
 <a href="https://twitter.com/rickdeckard23" rel="nofollow"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rickdeckard23"></a>
 </div>
 <h2>:hourglass: Project functionalities</h2>
@@ -73,6 +73,17 @@ To execute the script you must be in the folder HACK_THE_WORD and write:
   <img src="https://raw.githubusercontent.com/RickDeckcard/Hack_The_Word/main/INFOGRAFIAS/Create_my_password_screenshot.png" width="950" title="Create_my_pass script" alt="Create_my_pass.py screenshot">
 </p>
 <p align="center">
+<h2>:page_with_curl: How works Hack The Word: Tutorial</h2>
+The software have a lot of functions and to write how works I needing a wiki (coming soon). Then I have created several videos to show you how works the tool. In my YouTube channel you have 3 videos with all the functions (In Spanish): https://www.youtube.com/watch?v=dQrdW1kq86Q&list=PLYE7vp7YRfOxpNjwcZ5rl6S3eP9SjmRdh
+Coming soon the videos in English lenguage.
+<h2>:yen: Donations</h2>
+If you want to get improve Hack The Word then send any crypto to the address. Thanks to use HTW.
+Bitcoin: 3JPHkwxD5Xd3RgnTZRv1Yrpt3vFfEfyqyK
+<h2>:vhs: Follow me</h2>
+In Twitter: @rickdeckard23
+In Linkedin: https://es.linkedin.com/in/jorge-alejandro-esclapez-bonet-16629a1b7
+In MyPublicInbox: https://mypublicinbox.com/Deckcard23
+my website: deckcard23.com
 
 
 Hack The Word (HTW) is a software to create intelligence wordlists to use in Pentesting brute force attacks
