@@ -77,8 +77,8 @@ To execute the script you must be in the folder HACK_THE_WORD and write:
 The software have a lot of functions and to write how works I needing a wiki (coming soon). Then I have created several videos to show you how works the tool. In my YouTube channel you have 3 videos with all the functions (In Spanish): https://www.youtube.com/watch?v=dQrdW1kq86Q&list=PLYE7vp7YRfOxpNjwcZ5rl6S3eP9SjmRdh
 Coming soon the videos in English lenguage.
 <h2>:yen: Donations</h2>
-If you want to get improve Hack The Word then send any crypto to the address. Thanks to use HTW.
-Bitcoin: 3JPHkwxD5Xd3RgnTZRv1Yrpt3vFfEfyqyK
+<p>If you want to get improve Hack The Word then send any crypto to the address. Thanks to use HTW.</p>
+<p>Bitcoin: 3JPHkwxD5Xd3RgnTZRv1Yrpt3vFfEfyqyK</p>
 <h2>:vhs: Follow me</h2>
 <p>In Twitter: <a href="https://twitter.com/rickdeckard23" rel="nofollow"> @rickdeckard23</a></p>
 <p><a href="https://es.linkedin.com/in/jorge-alejandro-esclapez-bonet-16629a1b7" rel="nofollow">In LinkedIn</p>
