@@ -80,9 +80,9 @@ Coming soon the videos in English lenguage.
 If you want to get improve Hack The Word then send any crypto to the address. Thanks to use HTW.
 Bitcoin: 3JPHkwxD5Xd3RgnTZRv1Yrpt3vFfEfyqyK
 <h2>:vhs: Follow me</h2>
-<p><a href="https://twitter.com/rickdeckard23" rel="nofollow">In Twitter: @rickdeckard23</p>
-<p>In Linkedin: https://es.linkedin.com/in/jorge-alejandro-esclapez-bonet-16629a1b7</p>
-<p>In MyPublicInbox: https://mypublicinbox.com/Deckcard23</p>
+<p>In Twitter: <a href="https://twitter.com/rickdeckard23" rel="nofollow"> @rickdeckard23</p>
+<p>In Linkedin: <a href="https://es.linkedin.com/in/jorge-alejandro-esclapez-bonet-16629a1b7" rel="nofollow"></p>
+<p>In MyPublicInbox: <a href="https://mypublicinbox.com/Deckcard23" rel="nofollow"></p>
 <p>My website: deckcard23.com</p>
 
 
